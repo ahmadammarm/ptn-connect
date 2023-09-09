@@ -20,3 +20,8 @@ To run in the locally, run this command on your git bash:
 ```bash
 git clone https://github.com/ahmadammarm/ptn-connect.git
 ```
+### Member of the Team:
+- <a href="https://instagram.com/adeliamj_">Adelia Miftakul Janah</a>
+- <a href="https://instagram.com/dms.ramadhan">Dimas Maulana Ramadhan</a>
+- <a href="https://instagram.com/daafadhilh_">Dafa Fadhilah Hilmi</a>
+- <a href="https://instagram.com/ahmadammrm">Ahmad Ammar Musyaffa</a>
